@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: cacheit
+Version: 0.0.3
+Summary: Caching decorator based on cache-tools
+Home-page: https://alexdelorenzo.dev
+Author: Alex DeLorenzo
+License: AGPL-3.0
+Description: # limiter
+        
+        Caching decorator based on cache-tools. 
+        
+        
+        # Installation
+        
+        ## Requirements
+        
+         - Python 3.7+
+         
+        ## Installing from PyPI
+        
+        ```bash
+        pip3 install cache
+        ```
+        
+        # Usage
+        
+        ```python3
+        ...
+        ```
+Keywords: caching,decorator,cache-tools
+Platform: UNKNOWN
+Requires-Python: ~=3.7
+Description-Content-Type: text/markdown
