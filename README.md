@@ -1,4 +1,4 @@
-# limiter
+# Cacheit
 
 Caching decorator based on cache-tools. 
 
@@ -13,10 +13,4 @@ Caching decorator based on cache-tools.
 
 ```bash
 pip3 install cache
-```
-
-# Usage
-
-```python3
-...
 ```
